@@ -10,7 +10,10 @@ class twitter_bot:
         self.username = username
         self.password = password
         self.bot = webdriver.Firefox()
-
+        
+        
+        
+#Login Function
     def login(self):
         bot = self.bot
         bot.get("https://twitter.com/login")
@@ -26,6 +29,8 @@ class twitter_bot:
         password.send_keys(Keys.RETURN)
         time.sleep(10)
 
+        
+#Like Function
     def like_tweet(self,entry3):
         bot=self.bot
         bot.get('https://twitter.com/search?q='+str(entry3)+'&src=typed_query')
@@ -42,26 +47,30 @@ def execute():
     log.like_tweet(entry3.get())
 
 
-
+#For the GUI WINDOW
 window = Tk()
 window.geometry("700x600")
+
+#Fetching the Email
 emails = Label(window,text="enter your email here",font='times 24 bold')
 emails.grid(row=0,column=0)
 entry1= Entry(window)
 entry1.grid(row=0,column=6)
 
+#Fetching the Password
 password = Label(window,text="enter your password here",font='times 24 bold')
 password.grid(row=2,column=0)
 entry2= Entry(window)
 entry2.grid(row=2,column=6)
 
+#Fething the Hashtag
 hashtag = Label(window,text="enter your hashtag here",font='times 24 bold')
 hashtag.grid(row=3,column=0)
 entry3= Entry(window)
 entry3.grid(row=3,column=6)
 
+#Go button
 b1 = Button(window,text=" Go ",command=execute,width=12,bg='grey')
-
 b1.grid(row=7,column=4)
 
 window.mainloop()
