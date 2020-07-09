@@ -4,3 +4,6 @@
 # 8 days completed successfully.
 Now things are getting a bit easier compared to the first 3 days.
 learnt many new things and augmented my thinking skills.
+
+# 9th day
+working on python voice assistant. configured google calander into the script and learnt to deal with google speech recognition and "playaudio" module.
