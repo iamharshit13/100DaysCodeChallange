@@ -1,3 +1,6 @@
+#this is the first iteration of the code
+
+
 from __future__ import print_function
 import datetime
 import pickle
