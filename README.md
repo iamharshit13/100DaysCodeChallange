@@ -7,3 +7,10 @@ learnt many new things and augmented my thinking skills.
 
 # 9th day
 working on python voice assistant. configured google calander into the script and learnt to deal with google speech recognition and "playaudio" module.
+
+# 10th day
+switched from Google text to speech to pythons speech module
+facing some error in package configration.
+pyttsx3 may cause issues with new pip versions
+# python -m pip install pyttsx3==2.71
+  use this for proper working
