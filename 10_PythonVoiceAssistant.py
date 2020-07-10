@@ -10,6 +10,7 @@ import speech_recognition as sr
 import os
 import time
 import pyttsx3
+import pytz
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/calendar.readonly']
@@ -69,21 +70,29 @@ def auth_google():
     return service
 
 
-def get_events(n,service):
+def get_events(day,service):
 
-    # Call the Calendar API
-    now = datetime.datetime.utcnow().isoformat() + 'Z' # 'Z' indicates UTC time
-    print(f'Getting the upcoming {n} events')
-    events_result = service.events().list(calendarId='primary', timeMin=now,
-                                        maxResults=n, singleEvents=True,
+    #calendar api
+    date = datetime.datetime.combine(day, datetime.datetime.min.time())
+    end_date = datetime.datetime.combine(day, datetime.datetime.max.time())
+    utc = pytz.UTC
+    date = date.astimezone(utc)
+    end_date = end_date.astimezone(utc)
+
+
+
+    events_result = service.events().list(calendarId='primary', timeMin=date.isoformat(),
+                                          timeMax=end_date.isoformat() , singleEvents=True,
                                         orderBy='startTime').execute()
     events = events_result.get('items', [])
 
     if not events:
-        print('No upcoming events found.')
-    for event in events:
-        start = event['start'].get('dateTime', event['start'].get('date'))
-        print(start, event['summary'])
+        speak('No upcoming events found.')
+    else:
+        speak(f"You have {len(events)} events on this day.")
+        for event in events:
+            start = event['start'].get('dateTime', event['start'].get('date'))
+            print(start, event['summary'])
 
 def get_date(text):
     text = text.lower()
@@ -126,10 +135,16 @@ def get_date(text):
             if text.count("next")>=1:
                 dif += 7
         return today + datetime.timedelta(dif)
-
+    if month == -1 or day == -1:
+        return None
     return datetime.date(month=month, day=day, year=year)
 
-speak("Hello ")
+#speak("Hello harshit")
+
+SERVICE = auth_google()
+text = get_audio()
+get_events(get_date(text), SERVICE)
+
 #text = get_audio().lower()
 #print(get_date(text))
 
