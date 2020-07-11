@@ -14,3 +14,7 @@ facing some error in package configration.
 pyttsx3 may cause issues with new pip versions
 # python -m pip install pyttsx3==2.71
   use this for proper working
+  
+# 11th Day
+  started working on openCV2. learnt to create a face and smile detection script in python.
+  Mobile's camera can also be used as an input via IPWEBCAM app and using it's IP adress in the script.
