@@ -3,9 +3,14 @@ import cv2 , time
 face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 smile_cascade = cv2.CascadeClassifier("smile.xml")
 
+#for taking input from the device's camera
 video = cv2.VideoCapture(0)
+
+# these 2 below lines should be included together with the above line if you want to take smartphones camera as a input
 address = "http://192.168.29.206:8080/video"
 video.open(address)
+
+
 while True:
     check,frame=video.read()
     gray = cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)
