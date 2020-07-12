@@ -18,3 +18,7 @@ pyttsx3 may cause issues with new pip versions
 # 11th Day
   started working on openCV2. learnt to create a face and smile detection script in python.
   Mobile's camera can also be used as an input via IPWEBCAM app and using it's IP adress in the script.
+
+# 12th Day
+  completed the basic functionalities of voice assistant. It now wakes up on saying "hi/hey/hello Jarvis" and 
+  can fetch events from the calendar or can write and save notes for you. can be configured to open other applications suc as calculator or browser. 
