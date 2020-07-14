@@ -19,3 +19,6 @@ pyttsx3 may cause issues with new pip versions
   can fetch events from the calendar or can write and save notes for you. can be configured to open other applications suc as calculator or browser. 
 # 13th Day
   learnt about __init__ methodand reated a basic simulaiton program using it. Lots of theory to learn.
+# 14th Day
+  Started experimenting with Object Oriented Programming usinf the MARSHMALLOW package.
+  updated the ipynb file with proper headings and comment, still a long way to go
