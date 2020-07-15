@@ -22,3 +22,6 @@ pyttsx3 may cause issues with new pip versions
 # 14th Day
   Started experimenting with Object Oriented Programming usinf the MARSHMALLOW package.
   updated the ipynb file with proper headings and comment, still a long way to go
+# 15th Day
+  created a program to display the time of 4 different countries. for GUI tkinter is used and for grabbing the timezones PTYZ is used.
+  GUI can be altered further for more realistic look.
