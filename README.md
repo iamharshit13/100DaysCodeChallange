@@ -25,3 +25,6 @@ pyttsx3 may cause issues with new pip versions
 # 15th Day
   created a program to display the time of 4 different countries. for GUI tkinter is used and for grabbing the timezones PYTZ is used.
   GUI can be altered further for more realistic look.
+# 16th day
+  1. Singular Vector Decomposition: Learnt basics of SVD and tried to manipulate a image using 5% 20% and 100%.
+  2. QR Generator. learnt about qrcode module in python and created a basic QR generator.
