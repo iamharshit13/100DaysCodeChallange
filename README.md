@@ -28,3 +28,6 @@ pyttsx3 may cause issues with new pip versions
 # 16th day
   1. Singular Vector Decomposition: Learnt basics of SVD and tried to manipulate a image using 5% 20% and 100%.
   2. QR Generator. learnt about qrcode module in python and created a basic QR generator.
+# 17th Day
+  TURTLE module in python. It's great how easy it has become to experiment graphically with the help of these modules.
+  Created an Analog clock using the same. will add more functionalities to it
