@@ -31,3 +31,7 @@ pyttsx3 may cause issues with new pip versions
 # 17th Day
   TURTLE module in python. It's great how easy it has become to experiment graphically with the help of these modules.
   Created an Analog clock using the same. will add more functionalities to it
+# 18th Day
+  started working on this mask detector using Python and Machine Learning.
+  I've mentioned the details on how to set the dataset in the readme file of the same folder 18_FaceMaskDetect.
+  will add the face detection file tommorow after some testing and debugging.
