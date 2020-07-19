@@ -35,3 +35,9 @@ pyttsx3 may cause issues with new pip versions
   started working on this mask detector using Python and Machine Learning.
   I've mentioned the details on how to set the dataset in the readme file of the same folder 18_FaceMaskDetect.
   will add the face detection file tommorow after some testing and debugging.
+# 19th Day
+  The face ddctor is complete now
+  it recognizes whether the face detected in the fram s using the mask or not.
+  though the detection's accuracy is above 80% mostly but it defers with lighting condition and poor quality of laptop's webcam. Will improve the trained model over time.
+
+
