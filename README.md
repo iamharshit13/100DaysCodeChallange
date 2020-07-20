@@ -39,5 +39,7 @@ pyttsx3 may cause issues with new pip versions
   The face detector is complete now.
   it recognizes whether the face detected in the fram is wearing the mask or not.
   though the detection's accuracy is above 80% mostly but it defers with lighting condition and poor quality of laptop's webcam. Will improve the trained model over time.
-
+# 20th Day
+  Revsision day. Revised the basic concepts for python
+  created a basic text to speech program and inputted a motivational text file. Now i have a motivational audio to start my day well.
 
