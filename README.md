@@ -42,4 +42,6 @@ pyttsx3 may cause issues with new pip versions
 # 20th Day
   Revsision day. Revised the basic concepts for python
   created a basic text to speech program and inputted a motivational text file. Now i have a motivational audio to start my day well.
-
+## 21st Day: It's A Habit Now 😍🤣
+  created a basic email sender using smtp and ssl
+  brushed up some important concepts of python.
