@@ -45,3 +45,6 @@ pyttsx3 may cause issues with new pip versions
 ## 21st Day: It's A Habit Now 😍🤣
   created a basic email sender using smtp and ssl
   brushed up some important concepts of python.
+# 22nd Day
+  learnt to create a Youtube Video Downloader. Easy with all the options available.
+  Started learning ANGULAR by google.
