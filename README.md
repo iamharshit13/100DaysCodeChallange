@@ -48,3 +48,5 @@ pyttsx3 may cause issues with new pip versions
 # 22nd Day
   learnt to create a Youtube Video Downloader. Easy with all the options available.
   Started learning ANGULAR by google.
+# 23rd Day
+  Learnt the basic working and Architecture of Angular by google. Wrote an article on the same.
