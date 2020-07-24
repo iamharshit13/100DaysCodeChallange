@@ -50,3 +50,5 @@ pyttsx3 may cause issues with new pip versions
   Started learning ANGULAR by google.
 # 23rd Day
   Learnt the basic working and Architecture of Angular by google. Wrote an article on the same.
+# 24th Day
+  Created a program which generates Randon Amazon gift vouchers. Try it. If you are lucky you might get some bucks. Do notify me though😂.
