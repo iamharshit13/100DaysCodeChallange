@@ -19,3 +19,5 @@ for i in range(number):
     print(f"Coupon Code {a}:", get_random_alphanumeric_string(15-tuning, tuning))
     a+=1
 
+# Just so that the command windows stays before you copy the copons.
+imput()
