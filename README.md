@@ -52,3 +52,7 @@ pyttsx3 may cause issues with new pip versions
   Learnt the basic working and Architecture of Angular by google. Wrote an article on the same.
 # 24th Day
   Created a program which generates Randon Amazon gift vouchers. Try it. If you are lucky you might get some bucks. Do notify me though😂.
+# 25th Day
+  Basic music player using tkinter and python
+# 26th Day
+  Started practicing on hacker rank. Also started working on a stock trading script. trying to figure out this request.request() formating.
