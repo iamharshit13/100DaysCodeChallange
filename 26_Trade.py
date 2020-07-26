@@ -24,8 +24,8 @@ url = "https://stock-google-news.p.rapidapi.com/v1/search"
 querystring = {"lang":"en","country":"IND","ticker":"AAPL"}
 
 headers = {
-    'x-rapidapi-host': "",
-    'x-rapidapi-key': ""
+    'x-rapidapi-host': "#HOST",
+    'x-rapidapi-key': "#KEY"
     }
 
 response = requests.request("GET", url, headers=headers, params=querystring)
