@@ -56,3 +56,6 @@ pyttsx3 may cause issues with new pip versions
   Basic music player using tkinter and python
 # 26th Day
   Started practicing on hacker rank. Also started working on a stock trading script. trying to figure out this request.request() formating.
+# 27th Day
+  Started this "A comprehensive Learning path to become a data scientist in 2020" by Analytics Vidhya. 
+  ALso updated my github's dashboard for a more engaging and informative view.
