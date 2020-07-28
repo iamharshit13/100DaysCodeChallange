@@ -59,3 +59,5 @@ pyttsx3 may cause issues with new pip versions
 # 27th Day
   Started this "A comprehensive Learning path to become a data scientist in 2020" by Analytics Vidhya. 
   ALso updated my github's dashboard for a more engaging and informative view.
+# 28th Day
+  the Data Scientist course is in progress. Also, created this dice rolling program for revising the tkinter module. still trying to figure out how to animate it.
