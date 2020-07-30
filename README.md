@@ -61,3 +61,9 @@ pyttsx3 may cause issues with new pip versions
   ALso updated my github's dashboard for a more engaging and informative view.
 # 28th Day
   the Data Scientist course is in progress. Also, created this dice rolling program for revising the tkinter module. still trying to figure out how to animate it.
+# 29th Day.
+  Updated my twitter bot. It works faster than before.
+  also started working on Angular.
+# 30th Day
+  Learnt to create and manage project in Angular. Started learning ##HTML+CSS+JAVASCRIPT+TYPECRIPT+ANGULAR
+  also learnt to create this basic SMS Sender in python
