@@ -67,3 +67,5 @@ pyttsx3 may cause issues with new pip versions
 # 30th Day
   Learnt to create and manage project in Angular. Started learning ##HTML+CSS+JAVASCRIPT+TYPECRIPT+ANGULAR
   also learnt to create this basic SMS Sender in python
+# 31st Day.
+  Revision day. Completed 1 month of consistent coding. Revised all that I've learnt.
