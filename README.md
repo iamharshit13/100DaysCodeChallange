@@ -69,3 +69,5 @@ pyttsx3 may cause issues with new pip versions
   also learnt to create this basic SMS Sender in python
 # 31st Day.
   Revision day. Completed 1 month of consistent coding. Revised all that I've learnt.
+# 32nd Day
+  1st article on Angular Architecture sent for review and publishing
