@@ -19,7 +19,6 @@
 ### [8th Day]
 - Completed the web scrapper tutorial.
 - this web scrapper scrapes the data from IMDB's website.
-
 ### [9th Day]
 - working on python voice assistant.
 - configured google calander into the script and learnt to deal with google speech recognition and "playaudio" module.
