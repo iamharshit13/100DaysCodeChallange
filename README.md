@@ -1,6 +1,6 @@
 # 100DaysCodeChallange
  ## &nbsp;&nbsp; 1st July 2020.
- ## &nbsp;&nbsp; Took this challenge for coding at least 1 hour consistently for 100 consecutive days
+ ## Took this challenge for coding at least 1 hour consistently for 100 consecutive days
 ### [1st Day]
 - Created a TicTacToe program using Python
 ### [2nd Day]
