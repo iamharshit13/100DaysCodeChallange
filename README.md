@@ -3,7 +3,7 @@
 # 8 days completed successfully.
 Now things are getting a bit easier compared to the first 3 days.
 learnt many new things and augmented my thinking skills.
-# 9th day
+# [9th day]
 working on python voice assistant. configured google calander into the script and learnt to deal with google speech recognition and "playaudio" module.
 # 10th day
 switched from Google text to speech to pythons speech module
@@ -71,3 +71,9 @@ pyttsx3 may cause issues with new pip versions
   Revision day. Completed 1 month of consistent coding. Revised all that I've learnt.
 # 32nd Day
   1st article on Angular Architecture sent for review and publishing
+
+
+
+
+
+[9th day]:https://github.com/iamharshit13/100DaysCodeChallange/blob/master/9_PythonVoiceAssistant.py
