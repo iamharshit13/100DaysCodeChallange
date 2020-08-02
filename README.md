@@ -1,15 +1,25 @@
 # 100DaysCodeChallange
-1st July 2020. Took this challenge for coding at least 1 hour continuously for 100 consecutive days
+ ## &nbsp;&nbsp; 1st July 2020.
+ ## &nbsp;&nbsp; Took this challenge for coding at least 1 hour consistently for 100 consecutive days
 ### [1st Day]
+- Created a TicTacToe program using Python
 ### [2nd Day]
+- Learnt to create a twitter bot. Updated it later.
 ### [3rd Day]
+- arcade car game in making.
+- will take some time to upadte
 ### [4th Day]
+- Password generator using random function. It helps in creating random and custom passwords.
 ### [5th Day]
+- Working with Algorithms. Sudoku solver basic.
 ### [6th Day]
+- Basic program which takes text as input and extracts email IDs from it and saves it in a separate text file.
 ### [7th Day]
+- Followed an article on medium and learnt alot about web scrapping,
 ### [8th Day]
-Now things are getting a bit easier compared to the first 3 days.
-learnt many new things and augmented my thinking skills.
+- Completed the web scrapper tutorial.
+- this web scrapper scrapes the data from IMDB's website.
+
 ### [9th Day]
 - working on python voice assistant.
 - configured google calander into the script and learnt to deal with google speech recognition and "playaudio" module.
