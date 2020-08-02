@@ -88,7 +88,9 @@
 - Revision day. Completed 1 month of consistent coding. Revised all that I've learnt.
 ### [32nd Day]
 - 1st article on Angular Architecture sent for review and publishing
-
+### [33rd Day]
+- experimented with WHEN and MAYA module in python(Date & Time functionalities)
+- Started Practicing Touch Typing.⌨
 
 
 
@@ -125,3 +127,4 @@
 [30th Day]:https://github.com/iamharshit13/100DaysCodeChallange/blob/master/30_smsSender.py
 [31st Day]:https://github.com/iamharshit13/
 [32nd Day]:https://github.com/iamharshit13/100DaysCodeChallange/blob/master/32_ArchitectureOfAngular.pdf
+[33rd Day]:https://www.keybr.com/
