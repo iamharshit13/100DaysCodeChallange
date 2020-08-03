@@ -1,5 +1,5 @@
 # 100DaysCodeChallange
- ## &nbsp;&nbsp; 1st July 2020.
+# &nbsp;&nbsp; 1st July 2020.
  ## Took this challenge for coding at least 1 hour consistently for 100 consecutive days
 ### [1st Day]
 - Created a TicTacToe program using Python
@@ -91,7 +91,10 @@
 ### [33rd Day]
 - experimented with WHEN and MAYA module in python(Date & Time functionalities)
 - Started Practicing Touch Typing.⌨
-
+### [34th Day]
+- Data Visualization in Python using plotly, numpy and pandas. 
+- Tempreature plotting and interactive Map view.
+- [Full data-set Kaggle link]
 
 
 
@@ -128,3 +131,6 @@
 [31st Day]:https://github.com/iamharshit13/
 [32nd Day]:https://github.com/iamharshit13/100DaysCodeChallange/blob/master/32_ArchitectureOfAngular.pdf
 [33rd Day]:https://www.keybr.com/
+[34th Day]:https://github.com/iamharshit13/100DaysCodeChallange/tree/master/34_TempMaps
+[Full data-set Kaggle link]:https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+
