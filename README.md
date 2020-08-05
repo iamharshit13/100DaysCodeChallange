@@ -95,6 +95,8 @@
 - Data Visualization in Python using plotly, numpy and pandas. 
 - Tempreature plotting and interactive Map view.
 - [Full data-set Kaggle link]
+### [35th day]
+- Algrithms: Time and Space complexities and Asymptotoic Notations
 
 
 
@@ -133,4 +135,4 @@
 [33rd Day]:https://www.keybr.com/
 [34th Day]:https://github.com/iamharshit13/100DaysCodeChallange/tree/master/34_TempMaps
 [Full data-set Kaggle link]:https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
-
+[35th Day]:https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
