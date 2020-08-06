@@ -100,7 +100,9 @@
 ### [36th Day]
 - Angular: Routing and Enviorment Setup.
 - LeetCode: Interview Preparation.
-
+### [37th Day]
+- Working on Angular
+- Pyhton has speedtest modules for Internet Speed Test
 
 [1st Day]:https://github.com/iamharshit13/100DaysCodeChallange/blob/master/1_TicTacToe.py
 [2nd Day]:https://github.com/iamharshit13/100DaysCodeChallange/blob/master/2_twitterBot.py
@@ -139,3 +141,4 @@
 [Full data-set Kaggle link]:https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
 [35th Day]:https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
 [36th Day]:https://leetcode.com/problemset/top-interview-questions/
+[37th Day]:https://github.com/iamharshit13/100DaysCodeChallange/tree/master/37_speedtest
