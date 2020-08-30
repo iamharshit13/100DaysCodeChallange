@@ -102,7 +102,7 @@
 - LeetCode: Interview Preparation.
 ### [37th Day]
 - Working on Angular
-- Pyhton has speedtest modules for Internet Speed Test
+- Python has speedtest modules for Internet Speed Test
 
 [1st Day]:https://github.com/iamharshit13/100DaysCodeChallange/blob/master/1_TicTacToe.py
 [2nd Day]:https://github.com/iamharshit13/100DaysCodeChallange/blob/master/2_twitterBot.py
